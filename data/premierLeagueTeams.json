@@ -1,0 +1,102 @@
+[
+    {
+      "navn": "Arsenal",
+      "hjemmebane": "Emirates Stadium",
+      "by": "London"
+    },
+    {
+      "navn": "Aston Villa",
+      "hjemmebane": "Villa Park",
+      "by": "Birmingham"
+    },
+    {
+      "navn": "Brentford",
+      "hjemmebane": "Brentford Community Stadium",
+      "by": "London"
+    },
+    {
+      "navn": "Brighton & Hove Albion",
+      "hjemmebane": "Falmer Stadium",
+      "by": "Brighton & Hove"
+    },
+    {
+      "navn": "Burnley",
+      "hjemmebane": "Turf Moor",
+      "by": "Burnley"
+    },
+    {
+      "navn": "Chelsea",
+      "hjemmebane": "Stamford Bridge",
+      "by": "London"
+    },
+    {
+      "navn": "Crystal Palace",
+      "hjemmebane": "Selhurst Park",
+      "by": "London"
+    },
+    {
+      "navn": "Everton",
+      "hjemmebane": "Goodison Park",
+      "by": "Liverpool"
+    },
+    {
+      "navn": "Leeds United",
+      "hjemmebane": "Elland Road",
+      "by": "Leeds"
+    },
+    {
+      "navn": "Leicester City",
+      "hjemmebane": "King Power Stadium",
+      "by": "Leicester"
+    },
+    {
+      "navn": "Liverpool",
+      "hjemmebane": "Anfield",
+      "by": "Liverpool"
+    },
+    {
+      "navn": "Manchester City",
+      "hjemmebane": "Etihad Stadium",
+      "by": "Manchester"
+    },
+    {
+      "navn": "Manchester United",
+      "hjemmebane": "Old Trafford",
+      "by": "Manchester"
+    },
+    {
+      "navn": "Newcastle United",
+      "hjemmebane": "St. James' Park",
+      "by": "Newcastle upon Tyne"
+    },
+    {
+      "navn": "Norwich City",
+      "hjemmebane": "Carrow Road",
+      "by": "Norwich"
+    },
+    {
+      "navn": "Southampton",
+      "hjemmebane": "St. Mary's Stadium",
+      "by": "Southampton"
+    },
+    {
+      "navn": "Tottenham Hotspur",
+      "hjemmebane": "Tottenham Hotspur Stadium",
+      "by": "London"
+    },
+    {
+      "navn": "Watford",
+      "hjemmebane": "Vicarage Road",
+      "by": "Watford"
+    },
+    {
+      "navn": "West Ham United",
+      "hjemmebane": "London Stadium",
+      "by": "London"
+    },
+    {
+      "navn": "Wolverhampton Wanderers",
+      "hjemmebane": "Molineux Stadium",
+      "by": "Wolverhampton"
+    }
+  ]
