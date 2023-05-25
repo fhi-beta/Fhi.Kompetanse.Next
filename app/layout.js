@@ -1,4 +1,6 @@
 import './globals.css'
+import "@folkehelseinstituttet/style/import/_all.scss"
+
 import { Inter } from 'next/font/google'
 import Link from 'next/link'
 
