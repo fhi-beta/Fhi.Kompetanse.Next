@@ -9,7 +9,7 @@ export const metadata = {
 export default function ElinHome() {
   return (
     <>
-  <h2>Elin Hjem</h2>
+ 
   <div style={{display:'grid'}}>
        
       
