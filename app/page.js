@@ -18,6 +18,7 @@ export default function Home() {
       <h2><Link href="/tgje">Torbjørn</Link></h2>
       <h2><Link href="/sophie">Sophie</Link></h2>
       <h2><Link href="/oist">Øistein</Link></h2>
+      <h2><Link href="/svan">Svein</Link></h2>
     </>
   )
 }

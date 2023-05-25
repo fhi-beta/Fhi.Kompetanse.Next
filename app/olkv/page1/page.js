@@ -1,13 +1,16 @@
 import premierLeagueTeams from '@/data/premierLeagueTeams';
-
+import TeamSelectorComponent from '@/components/olkv/TeamSelectorComponent';
 
 export default function JanPage1() {
 
 
+  
   return (
   <>
-  <h2>JanPage 1</h2>
-         <AListServerComponent></AListServerComponent>
+  <h2>Team selector</h2>
+         <TeamSelectorComponent teams={premierLeagueTeams}>
+
+         </TeamSelectorComponent>
   </>
    
   )

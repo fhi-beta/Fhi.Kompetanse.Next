@@ -3,13 +3,13 @@ import Link from 'next/link'
 
 
 export const metadata = {
-  title: 'Jans sider'
+  title: 'Ole-Martin sider'
 }
 
 export default function JanHome() {
   return (
     <>
-  <h2>Jan Home</h2>
+  <h2>Ole-Martin Home</h2>
   <div style={{display:'grid'}}>
        
       
