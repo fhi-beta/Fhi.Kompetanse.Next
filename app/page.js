@@ -13,6 +13,8 @@ export default function Home() {
       <h2><Link href="/matm">Marius</Link></h2>
       <h2><Link href="/jaei">Jan2</Link></h2>
       <h2><Link href="/dawe">Damian</Link></h2>
+      <h2><Link href="/jaei">Jan</Link></h2>
+      <h2><Link href="/olkv">Ole-Martin</Link></h2>
       <h2><Link href="/tgje">Torbjørn</Link></h2>
       <h2><Link href="/sophie">Sophie</Link></h2>
     </>
