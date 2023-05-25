@@ -1,11 +1,11 @@
 import fjelltopper from '@/data/fjelltopper';
+import Fjellvelger from '@/components/oist/SelectorComponent';
 
-export default function OisteinPage1() {
+export default function OisteinPage2() {
   return (
   <>
-  <h2>Øisteins første side</h2>
-  <u><a href="https://www.visitjotunheimen.no/">Visit Jotunheimen</a></u>
-  <PeakComponent></PeakComponent>
+  <h2>Øisteins andre side</h2>
+  <Fjellvelger topper={fjelltopper}></Fjellvelger>
   </>
   )
 }
