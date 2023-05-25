@@ -8,6 +8,7 @@ export default function Home() {
       <h2><Link href="/jaei">Jan</Link> </h2>
       {/* Legg til din root link her  */} 
       <h2><Link href="/jaei">Jan</Link></h2>
+      <h2><Link href="/odda">OddA</Link></h2>
     </>
   )
 }
