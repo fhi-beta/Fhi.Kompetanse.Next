@@ -1,0 +1,17 @@
+[
+  {
+    "capital": "Beijing",
+    "country": "China",
+    "population": "21,542,000"
+  },
+  {
+    "capital": "Tokyo",
+    "country": "Japan",
+    "population": "13,921,000"
+  },
+  {
+    "capital": "Kinshasa",
+    "country": "Congo",
+    "population": "12,691,000"
+  }
+]
