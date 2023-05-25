@@ -7,15 +7,11 @@ export default function DamianLayout({ children }) {
 
       <nav style={{ fontSize: '1.2em', color: 'Blue' }}   >
         <ul style={{ display: 'inline-block', margin: '10px' }}>
-          <Link href="dawe/page1">Page (Client Componment) </Link>
+          <Link href="dawe/page1">Page (Client Component) </Link>
         </ul>
       </nav>
 
-
       {children}
-
     </>
-
-
   )
 }
