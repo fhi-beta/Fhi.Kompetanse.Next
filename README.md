@@ -4,6 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Oopen command-shell:
+
+git clone https://github.com/fhi-beta/Fhi.Kompetanse.Next.git
+cd Fhi.Kompetanse.Next
+npm install
+code .
+npm run dev
+
+
 ```bash
 npm run dev
 # or
