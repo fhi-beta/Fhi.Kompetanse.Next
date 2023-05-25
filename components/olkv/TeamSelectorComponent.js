@@ -10,7 +10,7 @@ export default function TeamSelectorComponent({teams}) {
     <>
       <div style={{margin:'30px 10px'}}>
           My selector
-          <select name="cars" id="cars"> 
+          <select name="teams" id="teams"> 
           {
               teams.map((lag,index) => {
                 return <option key={index} value={lag.navn}>{lag.navn}</option>
