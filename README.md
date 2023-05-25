@@ -7,19 +7,14 @@ First, run the development server:
 Oopen command-shell:
 
 git clone https://github.com/fhi-beta/Fhi.Kompetanse.Next.git
+
 cd Fhi.Kompetanse.Next
+
 npm install
+
 code .
-npm run dev
 
-
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
