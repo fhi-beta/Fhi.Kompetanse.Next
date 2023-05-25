@@ -8,7 +8,10 @@ export default function SophieLayout({ children }) {
 
     <nav style={{fontSize:'1.2em',color:'Blue' }}   >
       <ul style={{display:'inline-block',margin:'10px'}}>
-         <Link href="sophie/page1">Hogwarts Professors </Link>
+         <Link href="sophie/page1">Page1</Link>
+      </ul>
+      <ul style={{display:'inline-block',margin:'10px'}}>
+         <Link href="sophie/page2">Page2</Link>
       </ul>
 
    </nav>
