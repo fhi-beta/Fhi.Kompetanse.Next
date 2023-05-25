@@ -1,4 +1,4 @@
-import premierLeagueTeams from '@/data/premierLeagueTeams';
+import alltingrauterne from '@/data/alltingrauterne';
 
 
 export default function MariusPage1() {
@@ -17,9 +17,9 @@ function AListServerComponent() {
     return (
         <>
             <div style={{ margin: '20px' }}>
-                A List Server Component
+                Rautur listum stundum
                 {
-                    premierLeagueTeams.map((lag, index) => {
+                    alltingrauterne.map((lag, index) => {
                         return <li key={index}>{lag.navn}</li>
                     })
                 }
