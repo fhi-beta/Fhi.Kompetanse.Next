@@ -6,10 +6,9 @@ export default function JanLayout({ children }) {
       
     <nav style={{fontSize:'1.2em',color:'Blue' }}   >
     <ul style={{display:'inline-block',margin:'10px'}}>
-        <Link href="elin">Elin Home</Link>
-      </ul>
-      <ul style={{display:'inline-block',margin:'10px'}}>
-         <Link href="elin/page1">Alle undersøkelser (call Fhi.Hu.QDatabank API)</Link>
+        <li><Link href="elin">Elin Home</Link></li>
+         <li><Link href="elin/studyList">Liste med undersøkelser</Link></li>
+         <li><Link href="elin/studySelector">Nedtrekksliste med undersøkelser</Link></li>
       </ul>
    </nav>
 

@@ -1,12 +1,7 @@
-
 export default async function  ElinPage1() {
 
   async function getStudies() {
     const res = await fetch('https://test-fhi-hu-qdatabank-api.azurewebsites.net/api/v1/Study');
-    https://jsonplaceholder.typicode.com/todos/1
-
-    // The return value is *not* serialized
-    // You can return Date, Map, Set, etc.
    
     // Recommendation: handle errors
     if (!res.ok) {
@@ -17,10 +12,7 @@ export default async function  ElinPage1() {
     return res.json();
   }
 
-
   const studies = await getStudies();
-
-
 
   return (
   <>
@@ -50,4 +42,4 @@ function  Study({study}) {
        </div>
    </>
   )
- }
+}
