@@ -8,9 +8,12 @@ export default function DamianLayout({ children }) {
       <nav style={{ fontSize: '1.2em', color: 'Blue' }}   >
         <ul style={{ display: 'inline-block', margin: '10px' }}>
           <Link href="dawe/page1">Page (Client Component) </Link>
-          <ul style={{ display: 'inline-block', margin: '10px' }}>
+        </ul>
+        <ul style={{ display: 'inline-block', margin: '10px' }}>
           <Link href="dawe/page2">Page 2 (Server Component) </Link>
         </ul>
+        <ul style={{ display: 'inline-block', margin: '10px' }}>
+          <Link href="dawe/page3">Page 3 - Select </Link>
         </ul>
       </nav>
 
