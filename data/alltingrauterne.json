@@ -1,0 +1,52 @@
+[
+		{
+			"navn": "Erna SolDottir",
+			"hjemby": "Bergen",
+			"alder": 60
+		},
+		{
+			"navn": "Jonas GaSon",
+			"hjemby": "Oslo",
+			"alder": 61
+		},
+		{
+			"navn": "Siv JenDottir",
+			"hjemby": "Oslo",
+			"alder": 52
+		},
+		{
+			"navn": "Audun LySon",
+			"hjemby": "Bergen",
+			"alder": 44
+		},
+		{
+			"navn": "Trygve SlagSon",
+			"hjemby": "Hamar",
+			"alder": 42
+		},
+		{
+			"navn": "Une AiDottir",
+			"hjemby": "Oslo",
+			"alder": 40
+		},
+		{
+			"navn": "Abid QSon",
+			"hjemby": "Oslo",
+			"alder": 46
+		},
+		{
+			"navn": "Kjell IngoSon",
+			"hjemby": "Evje",
+			"alder": 36
+		},
+		{
+			"navn": "Trine SDottir",
+			"hjemby": "Bærum",
+			"alder": 51
+		},
+		{
+			"navn": "Olaug BoDottir",
+			"hjemby": "Vennesla",
+			"alder": 59
+		}
+]
