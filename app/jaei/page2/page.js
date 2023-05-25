@@ -11,7 +11,7 @@ export default function JanPage2() {
 
   return (
   <>
-  <h2>JanPage 1</h2>
+  <h2>JanPage 2</h2>
          <ABigClientComponent></ABigClientComponent>
   </>
    
