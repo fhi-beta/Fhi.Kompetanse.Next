@@ -1,0 +1,30 @@
+[
+      {
+        "name": "Herman Hedning",
+        "description": "Hovedkarakteren i serien, en barbarisk viking som ofte befinner seg i absurde og komiske situasjoner."
+      },
+      {
+        "name": "Gammelpål",
+        "description": "En eldre viking og Hermans venn. Han er ofte skeptisk til Hermans ideer og eventyr."
+      },
+      {
+        "name": "Lille Hjelper",
+        "description": "En liten, snakkende gjenstand som ofte gir Herman råd eller hjelper ham med sine påfunn."
+      },
+      {
+        "name": "Cerebus",
+        "description": "En trehodet hund som er en viktig karakter i serien. Den har en tendens til å følge Herman rundt og skape kaos."
+      },
+      {
+        "name": "Hersir",
+        "description": "En vikingleder og Hermans rival. De to er ofte i konflikt og prøver å overgå hverandre."
+      },
+      {
+        "name": "Fenris",
+        "description": "En stor og farlig ulv som er Hermans fiende. Fenris forsøker ofte å skade eller spise Herman."
+      },
+      {
+        "name": "Grak",
+        "description": "En ond trollmann som forsøker å ta kontroll over verden. Han er en av Hermans hovedmotstandere."
+      }
+    ]
