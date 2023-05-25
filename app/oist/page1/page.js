@@ -4,7 +4,7 @@ export default function OisteinPage1() {
   return (
   <>
   <h2>Øisteins første side</h2>
-  <a href="https://www.visitjotunheimen.no/">Visit Jotunheimen</a>
+  <u><a href="https://www.visitjotunheimen.no/">Visit Jotunheimen</a></u>
   <PeakComponent></PeakComponent>
   </>
   )

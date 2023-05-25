@@ -7,9 +7,11 @@ export default function MariusLayout({ children }) {
 
             <nav style={{ fontSize: '1.2em', color: 'Blue' }}   >
                 <ul style={{ display: 'inline-block', margin: '10px' }}>
-                    <Link href="matm/page1">Page1 (Server Componment) </Link>
+                    <Link href="matm/page1">Rauterliste (Server Componment) </Link>
                 </ul>
-
+                <ul style={{ display: 'inline-block', margin: '10px' }}>
+                    <Link href="matm/page2">Kaffeliste (Server Componment) </Link>
+                </ul>
             </nav>
 
             {children}

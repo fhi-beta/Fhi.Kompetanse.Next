@@ -6,7 +6,7 @@ export default function MinServerComponen() {
 
 function Komponent() {
   return(<>
-    <h3>De mest influential bedriftene i verden</h3>
+    <h3>De mest influential bedriftene i verden</h3>|
 
     <table>
       <thead>
