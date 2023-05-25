@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Apple Inc.",
+    "gross_income": "USD 365.7 billion (2020)",
+    "owner": "Publicly traded",
+    "place_of_origin": "United States"
+  },
+  {
+    "name": "Microsoft Corporation",
+    "gross_income": "USD 143 billion (2020)",
+    "owner": "Publicly traded",
+    "place_of_origin": "United States"
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "gross_income": "USD 386 billion (2020)",
+    "owner": "Jeff Bezos",
+    "place_of_origin": "United States"
+  },
+  {
+    "name": "Alphabet Inc. (Google)",
+    "gross_income": "USD 182.5 billion (2020)",
+    "owner": "Publicly traded",
+    "place_of_origin": "United States"
+  },
+  {
+    "name": "Facebook Inc.",
+    "gross_income": "USD 86 billion (2020)",
+    "owner": "Mark Zuckerberg",
+    "place_of_origin": "United States"
+  },
+  {
+    "name": "Alibaba Group Holding Limited",
+    "gross_income": "CNY 717.3 billion (2021)",
+    "owner": "Jack Ma",
+    "place_of_origin": "China"
+  }
+]
