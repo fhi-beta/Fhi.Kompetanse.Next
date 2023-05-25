@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Severus Snape",
+      "subject": "Potions"
+    },
+    {
+      "name": "Minerva McGonagall",
+      "subject": "Transfiguration"
+    },
+    {
+      "name": "Filius Flitwick",
+      "subject": "Charms"
+    },
+    {
+      "name": "Pomona Sprout",
+      "subject": "Herbology"
+    },
+    {
+      "name": "Remus Lupin",
+      "subject": "Defense Against the Dark Arts"
+    },
+    {
+      "name": "Sybill Trelawney",
+      "subject": "Divination"
+    },
+    {
+      "name": "Horace Slughorn",
+      "subject": "Potions"
+    },
+    {
+      "name": "Rubeus Hagrid",
+      "subject": "Care of Magical Creatures"
+    },
+    {
+      "name": "Bathsheda Babbling",
+      "subject": "Ancient Runes"
+    }
+  ]
