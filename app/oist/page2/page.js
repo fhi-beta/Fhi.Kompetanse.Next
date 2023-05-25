@@ -9,17 +9,3 @@ export default function OisteinPage2() {
   </>
   )
 }
-
-function PeakComponent() {
-  return (
-    <>
-      <div style={{margin:'30px'}}>
-          {
-              fjelltopper.map((fjell,index) => {
-                return <li key={index}>{fjell.topp + ", " + fjell.høyde + " moh"}</li>
-              })
-          }
-      </div>
-    </>
-  )
-}
