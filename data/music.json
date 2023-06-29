@@ -1,0 +1,22 @@
+[
+    {
+        "artist": "Nirvana",
+        "sanger": ["Smells Like Teen Spirit", "Come As You Are", "Lithium", "In Bloom", "Heart-Shaped Box"]
+    },
+    {
+        "artist": "Britney Spears",
+        "sanger": ["...Baby One More Time", "Sometimes", "(You Drive Me) Crazy", "Born to Make You Happy", "From the Bottom of My Broken Heart"]
+    },
+    {
+        "artist": "Tupac",
+        "sanger": ["Dear Mama", "California Love", "Changes", "I Get Around", "Keep Ya Head Up"]
+    },
+    {
+        "artist": "Spice Girls",
+        "sanger": ["Wannabe", "Say You'll Be There", "2 Become 1", "Spice Up Your Life", "Viva Forever"]
+    },
+    {
+        "artist": "Radiohead",
+        "sanger": ["Creep", "Paranoid Android", "Karma Police", "No Surprises", "High and Dry"]
+    }
+]
