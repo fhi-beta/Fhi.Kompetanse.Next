@@ -1,6 +1,7 @@
 "use client"
 import { useState, useEffect, useRef } from 'react';
 import data from '/data/music.json'
+import {FhiButton} from '@folkehelseinstituttet/react-components';
 
 export default function Player() {
   const [selectedArtist, setSelectedArtist] = useState('');
@@ -136,9 +137,9 @@ export default function Player() {
           <div>
             <h3>Selected Song</h3>
             <p style={{ fontStyle: trackInItalic ? 'italic' : 'normal' }}>{selectedSong}</p>
-            <button onClick={handlePlayStop}>
+            <FhiButton onClick={handlePlayStop}>
               {isPlaying ? 'Stop' : 'Play'}
-            </button>
+            </FhiButton>
             <p>{isPlaying ? 'Playing...' : 'Stopped'}</p>
           </div>
         )}
@@ -175,7 +176,7 @@ export default function Player() {
     </div>
 
     {playRandomly && ( // Only show "Stop" button when random playing is in progress
-      <button onClick={stopRandomly}>Stop</button>
+      <FhiButton onClick={stopRandomly}>Stop</FhiButton>
     )}
   </div>
 );
