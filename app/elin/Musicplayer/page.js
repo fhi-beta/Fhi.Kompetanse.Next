@@ -1,11 +1,18 @@
 import artists from '@/data/elin/norwegianartists';
 
 export default function ElinMusicPlayer() {
-  return <ArtistSelector />;
+
+  return (
+    <>
+    <ArtistSelector />
+    <NowPlaying />
+    </>
+    )
 }
 
 function ArtistSelector() {
-  return(<>
+  return(
+    <>
     <label>Velg artist: 
     <select>
           {artists.map((artist) => (
@@ -13,5 +20,13 @@ function ArtistSelector() {
           ))}
         </select>
     </label>
-  </>);
+    </>);
+}
+
+function NowPlaying() {
+  return(
+    <>
+    <label>Spiller nå: </label>
+    </>
+  )
 }
