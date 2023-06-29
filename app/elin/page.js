@@ -1,6 +1,4 @@
 import Image from 'next/image'
-import Link from 'next/link'
-
 
 export const metadata = {
   title: 'Elin sin side'
@@ -11,9 +9,7 @@ export default function ElinHome() {
     <>
  
   <div style={{display:'grid'}}>
-       
-      
-   </div>
+  </div>
 
    <Image 
       src="/elin2.jfif"

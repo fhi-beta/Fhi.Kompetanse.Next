@@ -1,0 +1,30 @@
+[ 
+  {
+  "name" : "Led Zeppelin",
+  "songs": [
+    "Stairway to Heaven",
+    "Kashmir",
+    "Whole Lotta Love",
+    "Immigrant Song",
+    "Black Dog"
+  ]},
+  {"name" : "Genesis",
+  "songs": [
+    "Invisible Touch",
+    "Land of Confusion",
+    "Turn It On Again",
+    "I Can't Dance",
+    "Mama"
+  ]
+},
+{
+  "name" : "Pink Flöyd",
+  "songs": [
+    "Wish You Were Here",
+    "Comfortably Numb",
+    "Another Brick in the Wall (Part II)",
+    "Time",
+    "Money"
+  ]
+}
+]

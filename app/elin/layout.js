@@ -1,14 +1,15 @@
 import Link from 'next/link'
 
-export default function JanLayout({ children }) {
+export default function Layout({ children }) {
   return (
     <>
       
     <nav style={{fontSize:'1.2em',color:'Blue' }}   >
     <ul style={{display:'inline-block',margin:'10px'}}>
         <li><Link href="elin">Elin Home</Link></li>
-         <li><Link href="elin/studyList">Liste med undersøkelser</Link></li>
-         <li><Link href="elin/studySelector">Nedtrekksliste med undersøkelser</Link></li>
+        <li><Link href="elin/studyList">Liste med undersøkelser</Link></li>
+        <li><Link href="elin/studySelector">Nedtrekksliste med undersøkelser</Link></li>
+        <li><Link href="elin/Musicplayer">Musicplayer</Link></li>
       </ul>
    </nav>
 
