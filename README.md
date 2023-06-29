@@ -1,6 +1,33 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Part -2 MusicPlayer
 
-## Getting Started
+1. Lag lokal side Musicplayer
+
+2. Bruk ChatGPT til å lage en json file med info om grupper/Artist og sanger/track
+   
+(eks:) Lag en Json array for følgende Grupper : Led Zeppelin, Genesis, Pink Floyd.   Inkludere navn og  5 kjente sanger for hver gruppe i en json array.  
+
+
+3.  Lag en 'SelectGruppe' (dropdown) component
+
+4.  Lag en 'NowPlaying' component , som viser 'Gruppe/Artist og hvilken tilhørende sanger/track som spilles
+
+   Hvert 10 sek skal 'neste' sang/track' 'spilles...
+
+5. Lag knapper som 'Starter' ,'Stopper' avspilling
+
+6. Lag 'Radio-knapp' valgmuliget mellom 'Valgt Artist' og Random...
+
+7. Lag Checkbox-er med valg for 'Artist i Bold' , Track i 'italic'  ..
+
+8. Bruk fhi-style
+
+9. Fritt kreativt valg....  
+
+
+
+
+## Part-1 etting Started
 
 First, run the development server:
 

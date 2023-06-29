@@ -1,4 +1,4 @@
-import companies from '@/data/companies';
+import capitals from '@/data/capitals';
 
 export default function MinServerComponen() {
   return <Komponent />;
@@ -11,18 +11,18 @@ function Komponent() {
     <table>
       <thead>
         <tr>
-          <th>Navn</th>
-          <th>omsetning</th>
-          <th>Opprinnelsesland</th>
+          <th>Capital</th>
+          <th>Country</th>
+          <th>Population</th>
         </tr>
       </thead>
       <tbody>
-        {companies.map((company, index) => {
+        {capitals.map((city, index) => {
           return (
             <tr key={index}>
-              <td>{company.name}</td>
-              <td>{company.gross_income}</td>
-              <td>{company.place_of_origin}</td>
+              <td>{city.capital}</td>
+              <td>{city.country}</td>
+              <td>{city.population}</td>
             </tr>
           )
         })}
