@@ -1,7 +1,7 @@
 
 'use client'
 import * as React from 'react';
-import hogwartsProfessors from '@/data/hogwartsProfessors';
+import hogwartsProfessors from '/data/hogwartsProfessors';
 import Image from 'next/image'
 
 export default function Test() {

@@ -13,6 +13,9 @@ export default function SophieLayout({ children }) {
       <ul style={{display:'inline-block',margin:'10px'}}>
          <Link href="sophie/page2">Page2</Link>
       </ul>
+      <ul style={{display:'inline-block',margin:'10px'}}>
+         <Link href="sophie/page3">MusicPlayer</Link>
+      </ul>
 
    </nav>
 

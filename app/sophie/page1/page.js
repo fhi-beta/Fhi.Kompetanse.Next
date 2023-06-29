@@ -1,4 +1,4 @@
-import hogwartsProfessors from '@/data/hogwartsProfessors'
+import hogwartsProfessors from '/data/hogwartsProfessors'
 import Image from 'next/image'
 
 
