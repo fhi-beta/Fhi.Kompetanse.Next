@@ -1,0 +1,30 @@
+{
+  "Bruce Springsteen": [
+    {
+      "song": "Born to Run"
+    },
+    {
+      "song": "Dancing in the Dark"
+    },
+    {
+      "song": "Thunder Road"
+    },
+    {
+      "song": "The River"
+    }
+  ],
+  "John Williams": [
+    {
+      "song": "Star Wars Main Theme"
+    },
+    {
+      "song": "Jurassic Park Theme"
+    },
+    {
+      "song": "Hedwig's Theme"
+    },
+    {
+      "song": "Schindler's List Theme"
+    }
+  ]
+}

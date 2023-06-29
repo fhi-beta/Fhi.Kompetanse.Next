@@ -21,6 +21,10 @@ export default function JanLayout({ children }) {
         <Link href="olkv/page4">Page4 (Call locale Api) </Link>
       </ul>
 
+      <ul style={{display:'inline-block',margin:'10px'}}>
+        <Link href="olkv/page5">Page5 (Music) </Link>
+      </ul>
+
    </nav>
 
    {children}
